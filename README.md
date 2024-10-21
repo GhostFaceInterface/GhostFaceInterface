@@ -8,7 +8,7 @@ I just wanna buy Bentley Flying Spur W12
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [besiraslan777@gmail.com](mailto:besiraslan777@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on all things to upgrade myself and develop more and more projects
 
 ### Skills
