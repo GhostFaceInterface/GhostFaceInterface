@@ -4,7 +4,7 @@ Hi 👋 My name is Beşir
 junior developer
 ----------------
 
-I just wanna buy Bentley Flying Spur W12
+I just wanna flying with Flying Spur W12
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [besiraslan777@gmail.com](mailto:besiraslan777@gmail.com)
