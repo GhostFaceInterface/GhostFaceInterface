@@ -7,7 +7,7 @@ junior developer
 I just wanna flying with Flying Spur W12
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [besiraslan777@gmail.com](mailto:besiraslan777@gmail.com)
+* ✉️  You can contact me at [besiraslan777@gmail.com](mailto:besiraslan773@gmail.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on all things to upgrade myself and develop more and more projects
 
