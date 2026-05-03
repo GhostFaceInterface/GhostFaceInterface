@@ -1,11 +1,9 @@
-# I'm an unemployed CS engineer 
+# I'm an unemployed CS engineer
 
 <p align="center">
-
-  <a href="https://tenor.com/view/bocchi-bocchitherock-hitori-gotou-ぼっちざろっく-anime-gif-26895031">
-
+  <a href="https://tenor.com/view/bocchi-the-rock-bocchi-roll-rolling-rolling-on-the-floor-gif-4645200487976536632">
+    <img src="https://media.tenor.com/4645200487976536632/tenor.gif" width="400">
   </a>
-
 </p>
 
 ---
