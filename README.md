@@ -1,7 +1,13 @@
 # I'm an unemployed CS engineer 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400">
+
+  <a href="https://tenor.com/view/bocchi-bocchitherock-hitori-gotou-ぼっちざろっく-anime-gif-26895031">
+
+    <img src="https://media.tenor.com/4645200487976536632/tenor.gif" width="400">
+
+  </a>
+
 </p>
 
 ---
