@@ -1,7 +1,7 @@
-# I'm unemployed CS engineer
+# I'm an unemployed CS engineer 
 
 <p align="center">
-  <img src="https://media.tenor.com/7Z8W9J3g0JYAAAAC/bocchi-the-rock.gif" width="400"/>
+  <img src="https://media.tenor.com/4645200487976536632/tenor.gif" width="400">
 </p>
 
 ---
@@ -24,13 +24,13 @@ Currently focused on building real systems instead of toy projects.
 
 <p>
   <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python">
   </a>
   <a href="https://go.dev/">
-    <img src="https://skillicons.dev/icons?i=go" />
+    <img src="https://skillicons.dev/icons?i=go">
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" />
+    <img src="https://skillicons.dev/icons?i=postgres">
   </a>
 </p>
 
@@ -40,24 +40,24 @@ Currently focused on building real systems instead of toy projects.
 
 <p>
   <a href="https://www.djangoproject.com/">
-    <img src="https://skillicons.dev/icons?i=django" />
+    <img src="https://skillicons.dev/icons?i=django">
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=docker">
   </a>
   <a href="https://kubernetes.io/">
-    <img src="https://skillicons.dev/icons?i=kubernetes" />
+    <img src="https://skillicons.dev/icons?i=kubernetes">
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" />
+    <img src="https://skillicons.dev/icons?i=linux">
   </a>
 </p>
 
 ---
 
-### Focus Areas
+## Focus
 
-- AI agents & tooling  
+- AI agents  
 - automation systems  
 - backend architecture  
 - cost-efficient AI workflows  
@@ -68,4 +68,4 @@ Currently focused on building real systems instead of toy projects.
 
 - Istanbul  
 - besiraslan777@gmail.com  
-- https://www.linkedin.com/in/muhammed-beşir-aslan-4b8a33289  
+- https://www.linkedin.com/in/muhammed-beşir-aslan-4b8a33289
