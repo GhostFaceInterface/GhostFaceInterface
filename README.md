@@ -69,5 +69,4 @@ Currently focused on building real systems instead of toy projects.
 ## Contact
 
 - Istanbul  
-- besiraslan777@gmail.com  
-- https://www.linkedin.com/in/muhammed-beşir-aslan-4b8a33289
+- ghostfaceinterface@gmail.com
