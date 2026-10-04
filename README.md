@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm an unemployed CS engineer 🆖 </h1>
+<h1 align="center">I'm an unemployed CS engineer </h1>
 
 ![296352797-acb457e2-ea95-4712-9521-1349020d5990](https://github.com/user-attachments/assets/043840a6-e26e-4b92-a75c-bb023901fafd)
 
