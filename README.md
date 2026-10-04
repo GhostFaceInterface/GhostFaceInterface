@@ -1,10 +1,8 @@
 # I'm an unemployed CS engineer
 
-<p align="center">
-  ![296352797-acb457e2-ea95-4712-9521-1349020d5990](https://github.com/user-attachments/assets/043840a6-e26e-4b92-a75c-bb023901fafd)
-    <img src="https://media.tenor.com/4645200487976536632/tenor.gif" width="400">
-  </a>
-</p>
+
+  https://github.com/user-attachments/assets/043840a6-e26e-4b92-a75c-bb023901fafd
+
 
 ---
 
